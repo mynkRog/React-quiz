@@ -1,8 +1,19 @@
-# React + Vite
+# Quiz Website❓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the React Quiz Website! This project is a quiz application built using React and Vite.
 
-Currently, two official plugins are available:
+### Live @: https://quizzappdemo.netlify.app 🔗
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features🛠️
+- Customizable quiz parameters: Users can select the number of questions, category, difficulty level, and quiz type.
+- Quiz categories: Choose from over 25 categories for quizzes.
+- Difficulty levels: Select from easy, medium, and hard difficulty levels.
+- Quiz types: Choose between true/false or multiple-choice questions (MCQs).
+- Result notification: Users receive their quiz results via a pop-up alert.
+  
+### Usage🛃
+- Select quiz parameters
+- start the quiz
+- answer questions
+- view results in the pop-up alert.
+
